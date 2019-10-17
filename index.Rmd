@@ -12,7 +12,7 @@ output:
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
 # Let's add a link
-I often use [this](google.com) for data science homework.
+I often use [google](https://www.google.com) for data science homework.
 
 # Let's add an image
 ![](images/mountains1.jpg)
