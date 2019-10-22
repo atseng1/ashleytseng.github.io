@@ -2,12 +2,13 @@
 title: "Plotly Examples"
 output: 
   html_document:
+    cold_folding: hide
     toc: true
     toc_float: true
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = FALSE)
 
 library(tidyverse)
 library(viridis)
@@ -16,7 +17,6 @@ library(plotly)
 ```
 
 
-## Load Dataset
 ```{r loaddataset}
 set.seed(1)
 
