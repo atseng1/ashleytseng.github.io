@@ -7,14 +7,12 @@ output:
     theme: journal
 ---
 
-## This is Ashley's awesome website
+# This is Ashley's awesome website
 You can learn about me [here](aboutme.html).
 
 ![](https://media.giphy.com/media/JxLUCh8nBgUjm/giphy.gif)
 
-## Let's add a link
 I often use [google](https://www.google.com) for data science homework.
 
-## Let's add an image
 ![](images/mountains1.jpg)
 
