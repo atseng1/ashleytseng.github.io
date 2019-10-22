@@ -10,7 +10,7 @@ output:
 # This is Ashley's awesome website
 You can learn about me [here](aboutme.html).
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+![](https://media.giphy.com/media/JxLUCh8nBgUjm/giphy.gif)
 
 # Let's add a link
 I often use [google](https://www.google.com) for data science homework.
