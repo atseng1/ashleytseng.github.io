@@ -1,5 +1,5 @@
 ---
-title: "My awesome website"
+title: "Ashley Tseng"
 output: 
   html_document:
     toc: true
@@ -7,12 +7,7 @@ output:
     theme: journal
 ---
 
-# This is Ashley's awesome website
 You can learn about me [here](aboutme.html).
 
-![](https://media.giphy.com/media/JxLUCh8nBgUjm/giphy.gif)
-
-I often use [google](https://www.google.com) for data science homework.
-
-![](images/mountains1.jpg)
+![](images/me.jpg)
 
